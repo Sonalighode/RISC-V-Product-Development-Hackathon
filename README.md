@@ -1,6 +1,6 @@
 # RISC-V-Product-Development-Hackathon
 
-<h2>Product Title - Contactless Disposal System</h2>
+<h2>Product Title - Smart contactless Disposal System</h2>
 
 <h3>C code</h3>
 https://github.com/Sonalighode/RISC-V-Product-Development-Hackathon/blob/main/contactlessdisposalsystem.ino
