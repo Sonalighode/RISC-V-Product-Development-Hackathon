@@ -1,4 +1,4 @@
-# RISC-V-Product-Development-Hackathon
+# RISC-V Product Development Hackathon
 
 <h2>Product Title - Smart contactless Disposal System</h2>
 
